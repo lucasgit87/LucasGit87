@@ -5,7 +5,7 @@
   
   ### Estudante de T.I. | Foco em Análise de Dados | Entusiasta de Inovação
   
-  [![LinkedIn](https://shields.io)](SEU_LINK_AQUI)
+  [![LinkedIn](https://shields.io)](SEU_LINK_DO_LINKEDIN_AQUI)
   [![Email](https://shields.io)](mailto:seuemail@gmail.com)
 </div>
 
@@ -17,10 +17,9 @@ Sou um estudante de Tecnologia da Informação apaixonado por transformar dados 
 
 Estou sempre em busca de participar de projetos de **inovação** e desafios que me permitam aplicar tecnologia para resolver problemas reais do dia a dia.
 
-## 📊 Minha Stack de Dados
+## 🛠️ Minhas Hard Skills
 
 <div align="left">
-  <img src="https://shields.io">
   <img src="https://shields.io">
   <img src="https://shields.io">
   <img src="https://shields.io">
@@ -28,6 +27,7 @@ Estou sempre em busca de participar de projetos de **inovação** e desafios que
 </div>
 
 ---
+
 
 <div align="center">
   *"Dados são o novo petróleo, mas a inovação é o motor que os torna úteis."*
