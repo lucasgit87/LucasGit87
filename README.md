@@ -30,5 +30,5 @@ Estou sempre em busca de participar de projetos de **inovação** e desafios que
 ---
 
 <div align="center">
-  *"Dados são o novo petróleo, mas a inovação é o motor que os torna úteis."*
+  "Dados são o novo petróleo, mas a inovação é o motor que os torna úteis."
 </div>
